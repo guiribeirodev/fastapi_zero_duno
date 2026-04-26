@@ -1,8 +1,4 @@
 {
-    "cSpell.words": [
-        "alice",
-        "exercicio",
-        "hellohtml",
-        "mynewpassword"
-    ]
+    "python-envs.defaultEnvManager": "ms-python.python:poetry",
+    "python-envs.defaultPackageManager": "ms-python.python:poetry"
 }
