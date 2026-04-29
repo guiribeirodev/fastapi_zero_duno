@@ -204,5 +204,6 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# Generated using ignr.py - github.com/Antrikshy/ignr.py
+# Generated using ignr.py - github.com/Antrikshy/ignr.pydatabase.db
 
+database.db
