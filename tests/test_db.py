@@ -61,7 +61,6 @@ async def test_user_todo_relationship(session, user: User):
         description='Test Desc',
         state=TodoState.draft,
         user_id=user.id,
-
     )
 
     session.add(todo)
