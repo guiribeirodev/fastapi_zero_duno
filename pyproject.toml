@@ -53,6 +53,9 @@ asyncio_default_fixture_loop_scope = 'function'
 [tool.typos.files]
 extend-exclude = ["*.md"]
 
+[tool.typos.default]
+extend-ignore-identifiers-re = ["selectin"]
+
 [tool.coverage.run]
 core = "ctrace"
 concurrency = ["thread", "greenlet"]
